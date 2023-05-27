@@ -7,8 +7,8 @@ This is a work in progress.
 - [Placeholder](recipes/deleteme.md)
 - [Placeholder](recipes/deleteme.md)
 ### Chinese
-- [Placeholder](recipes/deleteme.md)
-- [Placeholder](recipes/deleteme.md)
+- [Bellpeppers and Beef](recipes/beef-and-bellpeppers/recipe.md)
+- [Dandan Noodles (Sichuanese)](recipes/dandan/recipe.md)
 ### Indian
 - [Placeholder](recipes/deleteme.md)
 - [Placeholder](recipes/deleteme.md)

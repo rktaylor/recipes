@@ -1,0 +1,8 @@
+{
+    "Cuisine": "Chinese",
+    "Time": 1.00,
+    "Cost": 3,
+    "Role": "Dinner",
+    "Heat": "Flexible",
+    "Tags": ["Americanized"]
+}
